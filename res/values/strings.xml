@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eastern Music</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title">Sounds of the East</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btnBamboo">Play Bamboo Song</string>
+    <string name="btnPalace">Play Palace Song</string>
+
+</resources>
